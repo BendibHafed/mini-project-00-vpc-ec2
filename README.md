@@ -9,7 +9,7 @@ In this mini project:
 
 ## Project Structure
 
-<img src="assets/project00-vpc-ec2-nginx.png" alt="deploy-vpc-ec2-instance" width="400"/>
+<img src="assets/project00-vpc-ec2-nginx.png" alt="deploy-vpc-ec2-instance" width="700"/>
 
 ## Required steps
 
